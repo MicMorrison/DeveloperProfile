@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">DeveloperProfile</string>
     <string name="main_button_text">Button</string>
+    <string name="main_label_text">Kotlin App</string>
 </resources>
